@@ -1,0 +1,22 @@
+{
+  "name": "com.unity.nuget.mono-cecil",
+  "displayName": "Mono Cecil",
+  "version": "0.1.6-preview.2",
+  "unity": "2018.3",
+  "description": "The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/\n\nThis package is intended for internal Unity use only. Most Unity users will be better suite using the existing community tooling.\nTo avoid assembly clashes, please use this package if you intend to use Mono.Cecil.",
+  "keywords": [
+    "mono cecil"
+  ],
+  "type": "library",
+  "dependencies": {
+    "nuget.mono-cecil": "0.1.6-preview"
+  },
+  "upmCi": {
+    "footprint": "37096066719671b9570bdb9a56bca8e9a6b24b37"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.nuget.mono-cecil.git",
+    "type": "git",
+    "revision": "a4a04e8951e3501659276618cb3e5e9b29210dd0"
+  }
+}
