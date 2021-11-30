@@ -2,7 +2,7 @@
 
 ***This is a package intended for internal Unity Development Projects and as such this package is not supported. Use at your own risk.***
 
-This is a Unity package for Mono.Cecil and corresponds to Mono.Cecil version 0.10.0.
+This is a Unity package for Mono.Cecil and corresponds to Mono.Cecil version 0.11.4.
 
 Documentation for this Package is provided as links to the Mono.Cecil Documentation.
 

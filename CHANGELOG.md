@@ -4,6 +4,10 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [1.11.4] - 2021-11-30
+* This is a verified release of the com.unity.nuget.mono-cecil with embedded dlls of mono-cecil
+* Updated Mono to 0.11.4
+
 ## [1.10.2] - 2021-10-04
 * This is a verified release of the com.unity.nuget.mono-cecil with embedded dlls of mono-cecil
 * Updated with Signature for publishing
