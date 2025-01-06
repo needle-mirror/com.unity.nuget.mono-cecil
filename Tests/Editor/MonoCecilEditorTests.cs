@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEditor;
 using UnityEngine.TestTools;
 using NUnit.Framework;
@@ -8,8 +8,8 @@ using Mono.Cecil.Cil;
 
 class MonoCecilEditorTests {
 
-	[Test]
-	public void EditorSampleTestSimplePasses() {
-		Assert.IsTrue(true);
-	}
+    [Test]
+    public void EditorSampleTestSimplePasses() {
+        Assert.IsTrue(true);
+    }
 }

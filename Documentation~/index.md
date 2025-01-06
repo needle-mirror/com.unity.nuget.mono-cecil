@@ -2,7 +2,7 @@
 
 ***This is a package intended for internal Unity Development Projects and as such this package is not supported. Use at your own risk.***
 
-This is a Unity package for Mono.Cecil and corresponds to Mono.Cecil version 0.11.4.
+This is a Unity package for Mono.Cecil and corresponds to Mono.Cecil version 0.11.5 plus a graft of [this bug fix](https://github.com/jbevain/cecil/pull/914).
 
 Documentation for this Package is provided as links to the Mono.Cecil Documentation.
 
@@ -10,9 +10,9 @@ Documentation for this Package is provided as links to the Mono.Cecil Documentat
 
 ### Documentation
 
-[Mono Project Mono.Cecil](https://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/)
-[Mono.Cecil Wiki](https://github.com/jbevain/cecil/wiki)
-[Mono.Cecil Development Log](https://cecil.pe/)
-[Mono.Cecil Source Code](https://github.com/jbevain/cecil)
+* [Mono Project Mono.Cecil](https://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/)
+* [Mono.Cecil Wiki](https://github.com/jbevain/cecil/wiki)
+* [Mono.Cecil Development Log](https://cecil.pe/)
+* [Mono.Cecil Source Code](https://github.com/jbevain/cecil)
 
 ***This is a package intended for internal Unity Development Projects and as such this package is not supported. Use at your own risk.***
